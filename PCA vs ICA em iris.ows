@@ -37,10 +37,9 @@
 		<link enabled="true" id="13" sink_channel="Data" sink_node_id="12" source_channel="Preprocessed Data" source_node_id="13" />
 		<link enabled="true" id="14" sink_channel="Data" sink_node_id="14" source_channel="Data" source_node_id="12" />
 		<link enabled="true" id="15" sink_channel="Data" sink_node_id="15" source_channel="Data" source_node_id="14" />
-		<link enabled="true" id="16" sink_channel="Data Subset" sink_node_id="15" source_channel="Selected Data" source_node_id="8" />
-		<link enabled="true" id="17" sink_channel="Data" sink_node_id="16" source_channel="Selected Data" source_node_id="15" />
-		<link enabled="true" id="18" sink_channel="Extra Data" sink_node_id="16" source_channel="Data" source_node_id="0" />
-		<link enabled="true" id="19" sink_channel="Data" sink_node_id="17" source_channel="Data" source_node_id="16" />
+		<link enabled="true" id="16" sink_channel="Data" sink_node_id="16" source_channel="Selected Data" source_node_id="15" />
+		<link enabled="true" id="17" sink_channel="Extra Data" sink_node_id="16" source_channel="Data" source_node_id="0" />
+		<link enabled="true" id="18" sink_channel="Data" sink_node_id="17" source_channel="Data" source_node_id="16" />
 	</links>
 	<annotations />
 	<thumbnail />
